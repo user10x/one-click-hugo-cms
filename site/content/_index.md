@@ -1,6 +1,6 @@
 ---
 title: "Great Products with a conscience"
-subtitle: Support biodegradable plastic
+subtitle: Support biodegradable plastic, with 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why WheelBioscience?
